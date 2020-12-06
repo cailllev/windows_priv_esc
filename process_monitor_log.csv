@@ -1,0 +1,10 @@
+Time,User,Description,Executable,CommandLine,PID,ParentPID,Privileges
+('20200818143502.541977+120', 'LEVIS-MACHINE\\0\\Levi', 'svchost.exe', 'C:\\WINDOWS\\system32\\svchost.exe', 'C:\\WINDOWS\\system32\\svchost.exe -k BcastDVRUserService -s BcastDVRUserService', 20032, 840, 'SeChangeNotifyPrivilege')
+('20200818143503.631520+120', 'LEVIS-MACHINE\\0\\Levi', 'chrome.exe', 'C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe', '"C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe" --type=renderer --field-trial-handle=1656,6443439577858797743,772373506934095900,131072 --lang=en-US --instant-process --enable-auto-reload --device-scale-factor=1.75 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=269 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=8028 /prefetch:1', 8988, 14052, '')
+('20200818143505.727022+120', 'LEVIS-MACHINE\\0\\Levi', 'RuntimeBroker.exe', 'C:\\Windows\\System32\\RuntimeBroker.exe', 'C:\\Windows\\System32\\RuntimeBroker.exe -Embedding', 18868, 1012, 'SeChangeNotifyPrivilege')
+('20200818143506.145196+120', 'LEVIS-MACHINE\\0\\Levi', 'backgroundTaskHost.exe', 'C:\\WINDOWS\\system32\\BackgroundTaskHost.exe', '"C:\\WINDOWS\\system32\\BackgroundTaskHost.exe" -ServerName:BackgroundTaskHost.WebAccountProvider', 20564, 1012, 'SeChangeNotifyPrivilege')
+('20200818143506.187469+120', 'None\\2\\None', 'svchost.exe', None, None, 20608, 840, 'N/A')
+('20200818143507.178226+120', 'LEVIS-MACHINE\\0\\Levi', 'dllhost.exe', 'C:\\WINDOWS\\system32\\DllHost.exe', 'C:\\WINDOWS\\system32\\DllHost.exe /Processid:{AB8902B4-09CA-4BB6-B78D-A8F59079A8D5}', 20868, 1012, 'SeChangeNotifyPrivilege')
+('20200818143507.793705+120', 'None\\2\\None', 'svchost.exe', None, None, 21424, 840, 'N/A')
+('20200818143507.903988+120', 'None\\2\\None', 'svchost.exe', None, None, 21480, 840, 'N/A')
+('20200818143511.024354+120', 'LEVIS-MACHINE\\0\\Levi', 'backgroundTaskHost.exe', 'C:\\WINDOWS\\system32\\backgroundTaskHost.exe', '"C:\\WINDOWS\\system32\\backgroundTaskHost.exe" -ServerName:CortanaUI.AppXy7vb4pc2dr3kc93kfc509b1d0arkfb2x.mca', 18552, 1012, 'SeChangeNotifyPrivilege')
